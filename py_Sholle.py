@@ -18,4 +18,3 @@ test_labels
 
 from keras import models
 from keras import layers
-ner
